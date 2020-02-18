@@ -1,3 +1,3 @@
 # Lyrics-Bot
 
-Generate lyrics automatically from AZLyrics
+Query lyrics and funny anecdotes from AZLyrics and Genius Lyrics for the song you are listening to.  
